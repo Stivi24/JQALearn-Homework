@@ -3,7 +3,7 @@ package Homework1;
 import java.util.Scanner;
 
 
-class Task1 {
+ public class Task1 {
     public static void main(String[] args) {
         Scanner see = new Scanner(System.in);       // създаваме нов четец в началото  на нашата система
         System.out.println("Enter your number");   //  Команда за изписване на текст или число
